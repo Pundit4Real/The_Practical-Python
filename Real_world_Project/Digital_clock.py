@@ -15,3 +15,5 @@ clock.pack(anchor='center')
 
 time()
 mainloop()
+
+# this clock gives you real/live time feed
